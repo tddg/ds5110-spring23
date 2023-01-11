@@ -19,8 +19,8 @@ description: >-
   Spring 2023. Professor Yue Cheng. 
 tagline: Big Data Systems
 baseurl: '/DS5110-Spring-2023' # the subpath of your site, e.g. /blog
-#url: 'https://tddg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-url: '' 
+url: 'https://tddg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+#url: '' 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
