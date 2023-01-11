@@ -1,0 +1,114 @@
+# Format of this document:
+# Each top-level key is an item that is referneced by any section schedule's "content" array
+# Each key has a "name" attribute (rendered on the calendar), a "page" attribute (which contains a link to the lesson) and an optional "type" attribute, which is a key into the _data/config.yml "types" dictionary.
+1a:
+  name: Introduction to Big Data Systems
+  page: /modules/1-intro
+2a:
+  name: Fundamentals of computer systems I
+  page: /modules/2-sys
+2b:
+  name: Fundamentals of computer systems II
+  page: /modules/2-sys
+2c:
+  name: Fundamentals of computer systems III
+  page: /modules/2-sys
+3a:
+  name: Google MapReduce
+  page: /modules/3-mr
+3b:
+  name: Google File System, BigTable
+  page: /modules/3-gfs
+4a:
+  name: Spark RDD I
+  page: /modules/4-spark
+4b:
+  name: Spark RDD II
+  page: /modules/4-spark
+4c:
+  name: Spark SQL/streaming
+  page: /modules/4-spark
+5a:
+  name: Python parallel processing
+  page: /modules/5-py
+5b:
+  name: Python Dask, Modin
+  page: /modules/6-dask-modin
+5c:
+  name: Python Cylon (guest lecture)
+  page: /modules/7-cylon
+midtermReview:
+  name: Midterm review
+midterm:
+  name: Midterm
+springRecess:
+  name: Spring Recess (no class)
+  type: holiday
+6a:
+  name: Graph processing (guest lecture)
+  page: /modules/8-graph-processing
+7a:
+  name: Cloud computing basics
+  page: /modules/8-cloud-computing-basics
+7b:
+  name: Cloud-native data systems I
+  page: /modules/9-serverless-computing
+7c:
+  name: Cloud-native data systems II
+  page: /modules/9-serverless-computing
+8a:
+  name: Distributed ML systems
+  page: /modules/10-pytorch
+8b:
+  name: Federated learning systems (guest lecture)
+  page: /modules/11-federated-learning
+8c:
+  name: Reinforcement learning systems (Ray)
+  page: /modules/12-ray
+9a:
+  name: Database systems (2PC, CAP)
+  page: /modules/13-database
+10a:
+  name: Cloud storage (Amazon Dynamo)
+  page: /modules/14-amazon-dynamo
+10b:
+  name: Cloud storage (AWS DynamoDB)
+  page: /modules/15-aws-dynamodb
+11a:
+  name: Data warehouse (Snowflake+Alibaba)
+  page: /modules/16-warehouse-datacenter
+11b:
+  name: Datacenter computing (Alibaba)
+  page: /modules/16-datacenter
+a0:
+  name: Assignment 0
+  type: deadline
+  page: /assignments/a0
+a1:
+  name: Assignment 1
+  type: deadline
+  page: /assignments/a1
+a2:
+  name: Assignment 2
+  type: deadline
+  page: /assignments/a2
+projBid:
+  name: Project bid
+  type: deadline
+  page: /project/pb
+projCP1:
+  name: Project checkpoint 1
+  type: deadline
+  page: /project/proj_cp1
+projCP2:
+  name: Project checkpoint 2
+  type: deadline
+  page: /project/proj_cp2
+projEverything:
+  name: Project everything
+  type: deadline
+  page: /project/proj_everything
+workOnProj:
+  name: Work on project
+presentation:
+  name: Poster presentations

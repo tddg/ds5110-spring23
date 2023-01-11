@@ -13,26 +13,34 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: "DS5110, Spring'23"
+description: >-
+  The University of Virginia DS 5110 "Big Data Systems",
+  Spring 2023. Professor Yue Cheng. 
+tagline: Big Data Systems
+baseurl: '/DS5110-Spring-2023' # the subpath of your site, e.g. /blog
+#url: 'https://tddg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: '' 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: light
+color_scheme: uva
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
-footer_content:
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+#aux_links:
+#  Kevin Lin:
+#    - 'https://kevinl.info'
+#  Just the Class on GitHub:
+#    - 'https://github.com/kevinlin1/just-the-class'
+footer_content: "&copy; 2023 Yue Cheng. Released under the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA</a> license"
 
 # Collections for website data
 collections:
@@ -47,9 +55,7 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      height: 300
       subpath: '/assets/images/'
-      width: 300
   - scope:
       path: ''
       type: modules
@@ -76,3 +82,7 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-last-modified-at
+        
+last-modified-at:
+  date-format: '%b %d, %y %H:%M %'

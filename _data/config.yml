@@ -1,0 +1,36 @@
+deadlines:
+  '3':
+    Wed:
+      date: 2023/02/01 11:00am
+      content: a0
+  '6':
+    Wed:
+      date: 2023/02/22 11:00am
+      content: a1
+    Fri:
+      date: 2023/02/24 11:00am
+      content: projBid
+  '9':
+    Wed:
+      date: 2023/03/15 11:00am
+      content: a2
+  '10':
+    Fri:
+      date: 2023/03/24 11:00am
+      content: projCP1
+  '13':
+    Fri:
+      date: 2023/04/14 11:00am
+      content: projCP2
+  '16':
+    Wed:
+      date: 2023/05/03 11:00am
+      content: projEverything
+dates:
+  firstMonday: 2023/01/16
+  numWeeks: 16
+types:
+  default:
+    className: lesson
+  holiday:
+    className: holiday
