@@ -75,9 +75,9 @@ semester.
 
 ### Assignment sketches
 
-* [Assignment 0](/DS5110-Spring-2023/assignments/a0): Using AWS Academy and AWS EC2.
-* [Assignment 1](/DS5110-Spring-2023/assignments/a1): A tour of Apache HDFS and Spark.
-* [Assignment 2](/DS5110-Spring-2023/assignments/a2): Dask.distributed analytics.
+* [Assignment 0](/ds5110-spring23/assignments/a0): Using AWS Academy and AWS EC2.
+* [Assignment 1](/ds5110-spring23/assignments/a1): A tour of Apache HDFS and Spark.
+* [Assignment 2](/ds5110-spring23/assignments/a2): Dask.distributed analytics.
 
 
 

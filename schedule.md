@@ -12,7 +12,7 @@ weeks:
     Wed:
       date: 2023/01/18
       content: 1a
-      note: "[Assignment 0](/DS5110-Spring-2023/assignments/a0) out"
+      note: "[Assignment 0](/ds5110-spring23/assignments/a0) out"
   '2':
     Mon:
       date: 2023/01/23
@@ -27,7 +27,7 @@ weeks:
     Wed:
       date: 2023/02/01
       content: 3a
-      note: "[Assignment 1](/DS5110-Spring-2023/assignments/a1) out"
+      note: "[Assignment 1](/ds5110-spring23/assignments/a1) out"
   '4':
     Mon:
       date: 2023/02/06
@@ -49,7 +49,7 @@ weeks:
     Wed:
       date: 2023/02/22
       content: 5b
-      note: "[Assignment 2](/DS5110-Spring-2023/assignments/a2) out"
+      note: "[Assignment 2](/ds5110-spring23/assignments/a2) out"
   '7':
     Mon:
       date: 2023/02/27
