@@ -92,13 +92,13 @@ with a list of ideas around Week 5/6.
 
 Your grade will be calculated as follows:
 
-* 15% midterm exams
 * 5%  in-class participation
 * 5%  reading review forms
 * 5%  quizzes
 * 0%  assignment 0
 * 10% assignment 1
 * 10% assignment 2
+* 15% midterm exams
 * 10% project checkpoint 1 report 
 * 10% project checkpoint 2 report
 * 30% final project report, presentation, artifact eval
