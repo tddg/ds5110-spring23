@@ -20,10 +20,10 @@ nav_order: 1
 ## Reading
 
 There are no official textbooks. Required readings are (most
-frequently) in the form of seminal [research
-papers](./reading_list.html), online documentations, and/or selected
-textbook chapters There are several books that *might* be useful.
-Good thing is they are completely free:
+frequently) in the form of seminal 
+[research papers](/ds5110-spring23/reading_list), online documentations, 
+and/or selected textbook chapters There are several books that
+*might* be useful.  Good thing is they are completely free:
 
 * [Operating Systems: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/), 
 by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Aug, 2018 (v 1.00).
