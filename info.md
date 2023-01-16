@@ -72,10 +72,7 @@ fact requires you to do the required readings).
 ## Programming assignments
 
 We will have three Programming Assignments during the first half of the
-semester.
-
-
-### Assignment sketches
+semester:
 
 * [Assignment 0](/ds5110-spring23/assignments/a0): Using AWS Academy and AWS EC2.
 * [Assignment 1](/ds5110-spring23/assignments/a1): A tour of Apache HDFS and Spark.
