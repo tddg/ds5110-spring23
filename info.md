@@ -84,7 +84,7 @@ semester:
 
 Probably the most exciting part of this course is to complete an
 interesting project related to big data systems.  I will provide you
-with a list of ideas around Week 5/6.
+with a list of ideas around Week 4.
 
 
 
