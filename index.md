@@ -38,7 +38,7 @@ and cloud resources on Amazon Web Services (AWS).
 ## Topics (tentative)
 
 * Basic of computer systems, principles of parallel and distributed computing
-* Google big data infrastructures (MapReduce, Google File System, BigTable)
+* Google big data infrastructures (MapReduce, Google File System)
 * Spark RDD
 * Parallel Python analytics
 * Large-scale databases, cloud storage systems (Amazon Dynamo/AWS DynamoDB)
