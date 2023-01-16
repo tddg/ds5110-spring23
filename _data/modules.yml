@@ -2,22 +2,26 @@
 # Each top-level key is an item that is referneced by any section schedule's "content" array
 # Each key has a "name" attribute (rendered on the calendar), a "page" attribute (which contains a link to the lesson) and an optional "type" attribute, which is a key into the _data/config.yml "types" dictionary.
 1a:
+  name: MLK day (no class) - Background survey (fill it before Wed's class)
+  page: /lectures/survey
+  type: holiday
+1b:
   name: Introduction to Big Data Systems
-  page: /modules/1-intro
+  page: /lectures/lec1-intro
 2a:
-  name: Fundamentals of computer systems I
-  page: /modules/2-sys
+  name: Basics of computer organization
+  page: /lectures/lec2-basics
 2b:
-  name: Fundamentals of computer systems II
-  page: /modules/2-sys
+  name: Basics of operating systems I
+  page: /lectures/lec2-basics
 2c:
-  name: Fundamentals of computer systems III
-  page: /modules/2-sys
+  name: Basics of operating systems II
+  page: /lectures/lec2-basics
 3a:
-  name: Google MapReduce
+  name: Google File System (GFS)
   page: /modules/3-mr
 3b:
-  name: Google File System, BigTable
+  name: Google MapReduce
   page: /modules/3-gfs
 4a:
   name: Spark RDD I

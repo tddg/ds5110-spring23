@@ -9,9 +9,12 @@ weeks:
   # Each day can also have a `note` field, which is shown in italics on the calendar.
   # This schedule data is unioned with the deadlines in \_data/config.yml
   '1':
+    Mon:
+      date: 2023/01/16
+      content: 1a
     Wed:
       date: 2023/01/18
-      content: 1a
+      content: 1b
       note: "[Assignment 0](/ds5110-spring23/assignments/a0) out"
   '2':
     Mon:
