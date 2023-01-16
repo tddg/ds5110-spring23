@@ -32,7 +32,7 @@ and cloud resources such as Google Cloud and Azure Cloud.
 
 * Instructor: [Yue Cheng](https://tddg.github.io)
 * Meeting time: MW 3:30 pm - 4:45pm
-* Location: Mechanical Engr Bldg 213
+* Location: Olsson Hall 009
 
 
 ## Topics (tentative)
