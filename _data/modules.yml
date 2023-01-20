@@ -70,7 +70,7 @@ springRecess:
   name: Reinforcement learning systems (Ray)
   page: /modules/12-ray
 9a:
-  name: Database systems (2PC, CAP)
+  name: Database systems
   page: /modules/13-database
 10a:
   name: Cloud storage (Amazon Dynamo)
