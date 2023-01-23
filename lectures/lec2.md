@@ -23,4 +23,4 @@ In this lecture, you will learn:
 
 ### Quizzes
 
-* Quiz 1 [link](https://forms.gle/tfy4nPX324n2hh7X8)
+* Quiz 1: [link](https://forms.gle/tfy4nPX324n2hh7X8)
