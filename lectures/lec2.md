@@ -21,3 +21,6 @@ In this lecture, you will learn:
 * Basics of operating systems II (Memory and storage): [slides pdf]()
 
 
+### Quizzes
+
+* Quiz 1 [link](https://forms.gle/tfy4nPX324n2hh7X8)
