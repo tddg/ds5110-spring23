@@ -24,7 +24,8 @@ In this lecture, you will learn:
 
 ### Readings
 
-* **Lec2b:** [process](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) (§4.1, §4.2, §4.4), 
+* **Lec2b:** [intro to OS](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf),
+[process](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) (§4.1, §4.2, §4.4), 
 [scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) (§7.1-7.9)
 
 
