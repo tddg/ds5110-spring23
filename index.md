@@ -25,7 +25,7 @@ systems (MapReduce/Hadoop and Spark), scalable and parallel Python
 analytics frameworks, cloud data systems (cloud storage, cloud-native
 data processing), and machine learning systems. A major component of
 this course is hands-on programming using scalable analytics tools
-and cloud resources on Amazon Web Services (AWS).
+and cloud resources on Amazon Web Services (AWS) and Google Cloud.
 
 
 ## Lecture Info
