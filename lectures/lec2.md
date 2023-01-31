@@ -10,16 +10,16 @@ nav_order: 2
 
 In this lecture, you will learn:
 
-* basics of computer architecture, main hardware (lec2a).
-* basics of digital representation of data (binary data, data types) (lec2a).
-* basics of CPU management and OS-level job scheduling policies (lec2b).
+* **Lec2a:** basics of computer architecture, main hardware.
+* **Lec2b:** basics of digital representation of data (binary data, data types).
+* **Lec2c:** basics of CPU management and OS-level job scheduling policies.
 
 
 ### Lecture slides
 
 * **Lec2a:** Basics of computer organization (data representation): [slides pdf](/ds5110-spring23/assets/docs/lec2a-org.pdf)
 * **Lec2b:** Basics of operating systems I (CPU management): [slides pdf](/ds5110-spring23/assets/docs/lec2b-cpu.pdf)
-* Basics of operating systems II (Memory and storage): [slides pdf]()
+* **Lec2c:** Basics of operating systems II (Memory and storage): [slides pdf]()
 
 
 ### Readings
@@ -27,6 +27,10 @@ In this lecture, you will learn:
 * **Lec2b:** [intro to OS](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf),
 [process](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) (§4.1, §4.2, §4.4), 
 [scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) (§7.1-7.9)
+
+* **Lec2c:** [memory address space](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf) (§13), 
+[paging](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf) (§18.1),
+[files and dirs](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf) (§39)
 
 
 
