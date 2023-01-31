@@ -27,7 +27,6 @@ In this lecture, you will learn:
 * **Lec2b:** [intro to OS](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf),
 [process](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) (§4.1, §4.2, §4.4), 
 [scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) (§7.1-7.9)
-
 * **Lec2c:** [memory address space](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf) (§13), 
 [paging](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf) (§18.1),
 [files and dirs](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf) (§39)
