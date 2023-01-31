@@ -26,25 +26,25 @@ weeks:
   '3':
     Mon:
       date: 2023/01/30
-      content: 2c
+      content: 2b
     Wed:
       date: 2023/02/01
-      content: 3a
+      content: 2c
       note: "[Assignment 1](/ds5110-spring23/assignments/a1) out"
   '4':
     Mon:
       date: 2023/02/06
-      content: 3b
+      content: 3a
     Wed:
       date: 2023/02/08
-      content: 4a
+      content: 3b
   '5':
     Mon:
       date: 2023/02/13
-      content: 4b
+      content: 4a
     Wed:
       date: 2023/02/15
-      content: 4c
+      content: 4b
   '6':
     Mon:
       date: 2023/02/20

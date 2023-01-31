@@ -6,28 +6,28 @@
   page: /lectures/survey
   type: holiday
 1b:
-  name: Introduction to Big Data Systems
+  name: Lec1: Introduction to Big Data Systems
   page: /lectures/lec1-intro
 2a:
-  name: Basics of computer organization
+  name: Lec2a: Basics of computer organization 
   page: /lectures/lec2-basics
 2b:
-  name: Basics of operating systems I
+  name: Lec2b: Basics of operating systems I
   page: /lectures/lec2-basics
 2c:
-  name: Basics of operating systems II
+  name: Lec2c: Basics of operating systems II
   page: /lectures/lec2-basics
 3a:
-  name: Google File System (GFS)
+  name: Lec3a: Google File System (GFS)
   page: /modules/3-mr
 3b:
-  name: Google MapReduce
+  name: Lec3b: Google MapReduce
   page: /modules/3-gfs
 4a:
-  name: Spark RDD I
+  name: Lec4a: Spark RDD I
   page: /modules/4-spark
 4b:
-  name: Spark RDD II
+  name: Lec4b: Spark RDD II
   page: /modules/4-spark
 4c:
   name: Hadoop YARN
