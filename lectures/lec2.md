@@ -12,14 +12,15 @@ In this lecture, you will learn:
 
 * **Lec2a:** basics of computer architecture, main hardware.
 * **Lec2b:** basics of digital representation of data (binary data, data types).
-* **Lec2c:** basics of CPU management and OS-level job scheduling policies.
+* **Lec2b:** basics of CPU management and OS-level job scheduling policies.
+* **Lec2c:** basics of data locality, memory management, and the commonly-used data formats (CSV, JSON, SQL DBs).
 
 
 ### Lecture slides
 
 * **Lec2a:** Basics of computer organization (data representation): [slides pdf](/ds5110-spring23/assets/docs/lec2a-org.pdf)
 * **Lec2b:** Basics of operating systems I (CPU management): [slides pdf](/ds5110-spring23/assets/docs/lec2b-cpu.pdf)
-* **Lec2c:** Basics of operating systems II (Memory and storage): [slides pdf]()
+* **Lec2c:** Basics of operating systems II (Memory and storage): [slides pdf](/ds5110-spring23/assets/docs/lec2c-mem-fs.pdf)
 
 
 ### Readings
