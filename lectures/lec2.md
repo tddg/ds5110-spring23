@@ -12,7 +12,7 @@ In this lecture, you will learn:
 
 * **Lec2a:** basics of computer architecture, main hardware.
 * **Lec2b:** basics of digital representation of data (binary data, data types).
-* **Lec2b:** basics of CPU management and OS-level job scheduling policies.
+* **Lec2b:** basics of CPU management and job scheduling policies.
 * **Lec2c:** basics of data locality, memory management, and the commonly-used data formats (CSV, JSON, SQL DBs).
 
 
