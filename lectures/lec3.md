@@ -21,9 +21,11 @@ In this lecture, you will learn:
 ### Readings
 
 * **Lec3a:** [The GFS paper](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+* **Lec3b:** [The MapReduce paper](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters)
 
 
 
 ### Paper review forms
 
 * GFS: [form](https://edstem.org/us/courses/32938/discussion/2495447)
+* MapReduce: [form](https://edstem.org/us/courses/32938/discussion/2499829)
