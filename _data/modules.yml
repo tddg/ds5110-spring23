@@ -19,16 +19,16 @@
   page: /lectures/lec2-basics
 3a:
   name: Lec3a-Google File System (GFS)
-  page: /modules/lec3-gfs-mr
+  page: /lectures/lec3-gfs-mr
 3b:
   name: Lec3b-Google MapReduce
-  page: /modules/lec3-gfs-mr
+  page: /lectures/lec3-gfs-mr
 4a:
   name: Lec4a-Spark RDD I
-  page: /modules/4-spark
+  page: /lectures/4-spark
 4b:
   name: Lec4b-Spark RDD II
-  page: /modules/4-spark
+  page: /lectures/4-spark
 4c:
   name: Hadoop YARN
   page: /modules/5-yarn
