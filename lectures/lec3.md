@@ -20,8 +20,7 @@ In this lecture, you will learn:
 
 ### Readings
 
-* **Lec2b:** [The GFS paper](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-
+* **Lec3a:** [The GFS paper](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
 
 
