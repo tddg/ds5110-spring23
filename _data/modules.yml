@@ -19,10 +19,10 @@
   page: /lectures/lec2-basics
 3a:
   name: Lec3a-Google File System (GFS)
-  page: /modules/3-mr
+  page: /modules/lec3-gfs-mr
 3b:
   name: Lec3b-Google MapReduce
-  page: /modules/3-gfs
+  page: /modules/lec3-gfs-mr
 4a:
   name: Lec4a-Spark RDD I
   page: /modules/4-spark
