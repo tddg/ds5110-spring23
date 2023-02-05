@@ -11,6 +11,8 @@ nav_order: 3
 In this lecture, you will learn:
 
 * **Lec3a:** the design and architecture of GFS, data replication mechanisms, how GFS serves reads and writes.
+* **Lec3b:** the design, the programming model, the workflow of typical MapReduce applications (Word Count), and the fault tolerance model of MapReduce.
+* how the MapReduce computing framework interacts with the underlying GFS. 
 
 
 ### Lecture slides
