@@ -20,7 +20,7 @@ In this lecture, you will learn:
 
 * **Lec2a:** Basics of computer organization (data representation): [slides pdf](/ds5110-spring23/assets/docs/lec2a-org.pdf)
 * **Lec2b:** Basics of operating systems I (CPU management): [slides pdf](/ds5110-spring23/assets/docs/lec2b-cpu.pdf)
-* **Lec2c:** Basics of operating systems II (Memory and storage): [slides pdf](/ds5110-spring23/assets/docs/lec2c-mem-fs.pdf)
+* **Lec2c:** Basics of operating systems II (Memory and storage): [slides pdf](/ds5110-spring23/assets/docs/lec2c-mem-fs.pdf),
 [slides+notes](/ds5110-spring23/assets/docs/lec2c-mem-fs+notes.pdf)
 
 
