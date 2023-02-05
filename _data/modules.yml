@@ -33,7 +33,7 @@
   name: Hadoop YARN
   page: /modules/5-yarn
 5a:
-  name: Python parallel processing
+  name: Project introduction
   page: /modules/6-py
 5b:
   name: Python Dask, Modin
