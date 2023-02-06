@@ -48,7 +48,7 @@ weeks:
   '6':
     Mon:
       date: 2023/02/20
-      content: 5a
+      content: projectIntro
     Wed:
       date: 2023/02/22
       content: 5b
