@@ -25,10 +25,10 @@
   page: /lectures/lec3-gfs-mr
 4a:
   name: Lec4a-Spark RDD I
-  page: /lectures/4-spark
+  page: /lectures/lec4-spark
 4b:
   name: Lec4b-Spark RDD II
-  page: /lectures/4-spark
+  page: /lectures/lec4-spark
 4c:
   name: Hadoop YARN
   page: /modules/5-yarn
