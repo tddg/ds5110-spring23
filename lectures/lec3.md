@@ -18,7 +18,7 @@ In this lecture, you will learn:
 ### Lecture slides
 
 * **Lec3a:** GFS: [slides pdf](/ds5110-spring23/assets/docs/lec3a-gfs.pdf)
-* **Lec3b:** MapReduce: [slides pdf]()
+* **Lec3b:** MapReduce: [slides pdf](/ds5110-spring23/assets/docs/lec3b-mr.pdf)
 
 
 ### Readings
