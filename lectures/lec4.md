@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Lecture 4: Spark RDD"
+title: "Lecture 4: Apache Spark and RDDs"
 permalink: /lectures/lec4-spark
 parent: Lectures
 nav_order: 4
