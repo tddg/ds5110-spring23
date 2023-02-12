@@ -18,7 +18,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec4:** Spark: [slides pdf]()
+* **Lec4:** Spark: [slides pdf](/ds5110-spring23/assets/docs/lec4-spark.pdf)
 
 
 ### Readings
@@ -29,4 +29,5 @@ In this lecture, you will learn:
 
 ### Paper review forms
 
-* Spark: [form]()
+* Spark I: [form](https://edstem.org/us/courses/32938/discussion/2548792)
+* Spark II: [form](https://edstem.org/us/courses/32938/discussion/2548810)
