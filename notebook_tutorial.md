@@ -127,4 +127,10 @@ using Jupyter Notebook.
 In the snapshot above, the blurred Spark URL under `.master()` should
 be the private IP address of your Spark Master node.
 
+> **NOTE:** You should call `spark.stop()` at the end of your implementation to
+stop the driver. Otherwise the `Spark-Submit` program will keep
+hanging there waiting to be stopped, and that will block all your
+subsequent queries made to the Spark workers.
+
+
 Hope this helps!
