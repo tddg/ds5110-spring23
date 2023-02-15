@@ -24,7 +24,7 @@ In this lecture, you will learn:
 ### Readings
 
 * **Lec4:** [The Spark paper](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
-
+* Optional reading: [PageRank algorithm](http://infolab.stanford.edu/~backrub/google.html) (§2.1)
 
 
 ### Paper review forms
