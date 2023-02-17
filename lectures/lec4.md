@@ -18,7 +18,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec4:** Spark: [slides pdf](/ds5110-spring23/assets/docs/lec4-spark.pdf)
+* **Lec4:** Spark: [slides pdf](/ds5110-spring23/assets/docs/lec4-spark.pdf), [pipeline+pagerank notes](/ds5110-spring23/assets/docs/notes_pipeline_pagerank.pdf)
 
 
 ### Readings
