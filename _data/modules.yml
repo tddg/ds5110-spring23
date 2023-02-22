@@ -36,11 +36,11 @@ projectIntro:
   name: Project introduction
   page: /lectures/project-intro
 5b:
-  name: Python Dask, Modin
-  page: /modules/6-dask-modin
+  name: Parallelism in Python
+  page: /modules/lec5-py-parallel
 5c:
   name: Python Cylon (guest lecture)
-  page: /modules/7-cylon
+  page: /modules/lec5-py-parallel
 midtermReview:
   name: Midterm review
 midterm:
