@@ -25,6 +25,11 @@ In this lecture, you will learn:
 * **Lec5a:** [Dask.distributed](https://distributed.dask.org/en/stable/) (optional), [Python multiprocessing](https://docs.python.org/3/library/multiprocessing.html) (optional)
 
 
+### Quizzes
+
+* Quiz 3: [link](https://forms.gle/hbU8Yba1i8gpTeRT8)
+
+
 ### Lecture videos
 
 * **Lec5a:** [Video](https://edstem.org/us/courses/32938/discussion/2648324)
