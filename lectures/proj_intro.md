@@ -6,7 +6,8 @@ parent: Lectures
 nav_order: 5
 
 ---
-### Learning Objectives:
+
+### Learning objectives:
 
 In this lecture, you will learn:
 
