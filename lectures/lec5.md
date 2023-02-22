@@ -3,7 +3,7 @@ layout: module
 title: "Lecture 5: Python Parallel Processing"
 permalink: /lectures/lec5-py-parallel
 parent: Lectures
-nav_order: 5
+nav_order: 6
 
 ---
 ### Learning objectives:
@@ -11,7 +11,7 @@ nav_order: 5
 In this lecture, you will learn:
 
 * the basics of parallelism (in Python).
-* how to calculate speedup, strong scaling, and weak scaling.
+* how to calculate speedup, the definition of strong scaling and weak scaling.
 * task-level parallelism in Dask.
 
 
