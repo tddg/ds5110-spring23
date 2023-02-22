@@ -37,10 +37,10 @@ projectIntro:
   page: /lectures/project-intro
 5b:
   name: Parallelism in Python
-  page: /modules/lec5-py-parallel
+  page: /lectures/lec5-py-parallel
 5c:
   name: Python Cylon (guest lecture)
-  page: /modules/lec5-py-parallel
+  page: /lectures/lec5-py-parallel
 midtermReview:
   name: Midterm review
 midterm:
