@@ -35,6 +35,9 @@
 projectIntro:
   name: Project introduction
   page: /lectures/project-intro
+projectBidding:
+  name: Project bidding
+  page: /lectures/project-intro
 5a:
   name: Parallelism in Python
   page: /lectures/lec5-py-parallel
