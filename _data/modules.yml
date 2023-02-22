@@ -35,10 +35,10 @@
 projectIntro:
   name: Project introduction
   page: /lectures/project-intro
-5b:
+5a:
   name: Parallelism in Python
   page: /lectures/lec5-py-parallel
-5c:
+5b:
   name: Python Cylon (guest lecture)
   page: /lectures/lec5-py-parallel
 midtermReview:

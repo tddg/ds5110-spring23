@@ -19,3 +19,8 @@ In this lecture, you will learn:
 * ML model analysis + Wukong serverless analytics: [slides pdf](https://edstem.org/us/courses/32938/discussion/2632198)
 
 
+### Project teams and bidding
+
+1. Fill up the team information form [here](https://forms.gle/6rmbxbSYjBDcD7GMA).
+2. Fill up the project bidding form [here](https://forms.gle/3bzFsR3P6mujRkmV8).
+

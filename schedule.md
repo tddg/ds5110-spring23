@@ -51,7 +51,7 @@ weeks:
       content: projectIntro
     Wed:
       date: 2023/02/22
-      content: 5b
+      content: 5a
       note: "[Assignment 2](/ds5110-spring23/assignments/a2) out"
   '7':
     Mon:
