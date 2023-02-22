@@ -27,4 +27,4 @@ In this lecture, you will learn:
 
 ### Lecture videos
 
-* [Video]()
+* **Lec5a:** [Video](https://edstem.org/us/courses/32938/discussion/2648324)
