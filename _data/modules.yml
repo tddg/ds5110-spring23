@@ -39,10 +39,10 @@ projectBidding:
   name: Project bidding
   page: /lectures/project-intro
 5a:
-  name: Parallelism in Python
+  name: Lec5a-Parallelism in Python
   page: /lectures/lec5-py-parallel
 5b:
-  name: Python Cylon (guest lecture)
+  name: Lec5b-Python Cylon (guest lecture)
   page: /lectures/lec5-py-parallel
 midtermReview:
   name: Midterm review
