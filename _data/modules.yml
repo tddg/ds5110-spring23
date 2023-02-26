@@ -46,6 +46,7 @@ projectBidding:
   page: /lectures/lec5-py-parallel
 midtermReview:
   name: Midterm review
+  page: /lectures/midterm-review
 midterm:
   name: Midterm
 springRecess:
