@@ -33,3 +33,9 @@ In this lecture, you will learn:
 
 * Spark I: [form](https://edstem.org/us/courses/32938/discussion/2548792)
 * Spark II: [form](https://edstem.org/us/courses/32938/discussion/2548810)
+
+
+### Lecture videos
+
+* Spark I: [video](https://edstem.org/us/courses/32938/discussion/2583556)
+* Spark II: [video](https://edstem.org/us/courses/32938/discussion/2607895)
