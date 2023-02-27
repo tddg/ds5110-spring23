@@ -32,4 +32,4 @@ In this lecture, you will learn:
 
 ### Lecture videos
 
-* **Lec5a:** [Video](https://edstem.org/us/courses/32938/discussion/2648324)
+* **Lec5a:** [video](https://edstem.org/us/courses/32938/discussion/2648324)
