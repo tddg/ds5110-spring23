@@ -14,6 +14,7 @@ In this lecture, you will learn:
 * how to calculate speedup, the definition of strong scaling and weak scaling.
 * task-level parallelism in Dask.
 * the basics of advanced Python data science tool Cylon.
+* the performance benefits of Cylon on HPC (high-performance computing) infrastructure.
 
 
 ### Lecture slides
