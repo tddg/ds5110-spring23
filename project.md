@@ -66,6 +66,13 @@ template](https://github.com/tddg/ds5110_latex_template);
 submissions formatted with other templates are invalid. An example PDF can be found
 [here](https://github.com/tddg/ds5110_latex_template/blob/main/paper.pdf).
 
+More conveniently, I highly recommend using hosted Latex service such
+as [Overleaf](https://www.overleaf.com/) for collaborative latex
+editing with your teammates. UVA is providing [Overleaf professional
+features](https://www.overleaf.com/edu/virginia) for all students,
+faculty, and staff. **Give it a try if you have not used Latex/Overleaf
+before!**
+
 
 
 ### Final report
