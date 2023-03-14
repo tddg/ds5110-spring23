@@ -68,9 +68,17 @@ submissions formatted with other templates are invalid. An example PDF can be fo
 
 More conveniently, I highly recommend using hosted Latex service such
 as [Overleaf](https://www.overleaf.com/) for collaborative latex
-editing with your teammates. UVA is providing [Overleaf professional
+editing with your teammates. 
+Overleaf is designed to make the process of writing, editing and
+producing your research papers and project reports much quicker for
+both you and your collaborators. Overleaf can also be linked to other
+services to best fit into your workflow.
+
+UVA is providing [Overleaf professional
 features](https://www.overleaf.com/edu/virginia) for all students,
-faculty, and staff. **Give it a try if you have not used Latex/Overleaf
+faculty, and staff. 
+
+**Give it a try if you have not used Latex/Overleaf
 before!**
 
 
