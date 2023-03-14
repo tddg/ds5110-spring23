@@ -77,9 +77,10 @@ opposed to the formatted text found in
 [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) (what you see is
 what you get) word processors like Microsoft Word and Google Doc.
 
-More conveniently, I highly recommend using hosted Latex service such
-as [Overleaf](https://www.overleaf.com/) for collaborative latex
-editing with your teammates. 
+You don't need to install Latex locally.  More conveniently, you
+should use hosted Latex service such as
+[Overleaf](https://www.overleaf.com/) for collaborative latex editing
+with your teammates. 
 
 UVA is providing [Overleaf professional
 features](https://www.overleaf.com/edu/virginia) for all students,
