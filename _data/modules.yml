@@ -107,15 +107,15 @@ projBid:
 projCP1:
   name: Project checkpoint 1
   type: deadline
-  page: /project/proj_cp1
+  page: /ds5110-spring23/project/#checkpoint-1-proposal
 projCP2:
   name: Project checkpoint 2
   type: deadline
-  page: /project/proj_cp2
+  page: /ds5110-spring23/project/#checkpoint-2-primary-results
 projEverything:
   name: Project everything
   type: deadline
-  page: /project/proj_everything
+  page: /ds5110-spring23/project/#final-report
 workOnProj:
   name: Work on project
 presentation:
