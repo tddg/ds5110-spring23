@@ -104,6 +104,9 @@ projBid:
   name: Project bid
   type: deadline
   page: /project/pb
+projOpenStudio:
+  name: Project open studio
+  page: /project/#checkpoint-1-proposal
 projCP1:
   name: Project checkpoint 1
   type: deadline

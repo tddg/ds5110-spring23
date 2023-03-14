@@ -73,28 +73,28 @@ weeks:
       content: 5b
     Wed:
       date: 2023/03/15
-      content: 6a
+      content: projOpenStudio
   '10':
     Mon:
       date: 2023/03/20
-      content: 7a
+      content: 6a
     Wed:
       date: 2023/03/22
-      content: 7b
+      content: 7a
   '11':
     Mon:
       date: 2023/03/27
-      content: 7c
+      content: 7b
     Wed:
       date: 2023/03/29
-      content: 8a
+      content: 7c
   '12':
     Mon:
       date: 2023/04/03
-      content: 8b
+      content: 8a
     Wed:
       date: 2023/04/05
-      content: 8c
+      content: 8b
   '13':
     Mon:
       date: 2023/04/10
