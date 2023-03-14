@@ -68,15 +68,14 @@ report using
 [Latex](https://www.latex-project.org/) and [this Latex
 template](https://github.com/tddg/ds5110_latex_template); submissions
 formatted with other templates are invalid. 
+An example PDF can be found
+[here](https://github.com/tddg/ds5110_latex_template/blob/main/paper.pdf).
 
 [Latex](https://www.latex-project.org/) is a software system for
 document preparation. When writing, the writer uses plain text as
 opposed to the formatted text found in
 [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) (what you see is
 what you get) word processors like Microsoft Word and Google Doc.
-
-An example PDF can be found
-[here](https://github.com/tddg/ds5110_latex_template/blob/main/paper.pdf).
 
 More conveniently, I highly recommend using hosted Latex service such
 as [Overleaf](https://www.overleaf.com/) for collaborative latex
