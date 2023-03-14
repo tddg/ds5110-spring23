@@ -63,10 +63,19 @@ specific lines).
 Similar as Checkpoint #1. What's more, you must include primary
 results (e.g., small-scale measurement results, examples that your
 prototype can already handle, etc). Please format your checkpoint #2
-report as a PDF file in Canvas.
-Please format your checkpoint #2 report using the [this
-template](https://github.com/tddg/ds5110_latex_template);
-submissions formatted with other templates are invalid. An example PDF can be found
+report as a PDF file in Canvas.  Please format your checkpoint #2
+report using
+[Latex](https://www.latex-project.org/) and [this Latex
+template](https://github.com/tddg/ds5110_latex_template); submissions
+formatted with other templates are invalid. 
+
+[Latex](https://www.latex-project.org/) is a software system for
+document preparation. When writing, the writer uses plain text as
+opposed to the formatted text found in
+[WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) (what you see is
+what you get) word processors like Microsoft Word and Google Doc.
+
+An example PDF can be found
 [here](https://github.com/tddg/ds5110_latex_template/blob/main/paper.pdf).
 
 More conveniently, I highly recommend using hosted Latex service such
