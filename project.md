@@ -63,7 +63,6 @@ specific lines).
 Similar as Checkpoint #1. What's more, you must include primary
 results (e.g., small-scale measurement results, examples that your
 prototype can already handle, etc). Please format your checkpoint #2
-report as a PDF file in Canvas.  Please format your checkpoint #2
 report using
 [Latex](https://www.latex-project.org/) and [this Latex
 template](https://github.com/tddg/ds5110_latex_template); submissions
