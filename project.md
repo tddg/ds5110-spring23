@@ -93,6 +93,12 @@ services to best fit into your workflow.
 **Give it a try if you have not used Latex/Overleaf
 before!**
 
+Your checkpoint #2 report should be built atop your checkpoint #1
+report, and will be about 3-4 pages is fine. 
+The end product of this milestone is a description about:
+1. your primary results and any insights/observations,
+2. planned TODOs that you haven't completed but plan to get done by the end of the semester. 
+
 
 
 ### Final report
