@@ -52,7 +52,7 @@ to report any preliminary results that you have already collected if any.
 Your checkpoint #1 report should use a shared Google Doc.
 
 About 1-2 pages is fine.
-The end product of the proposal is a crisp **problem statement**. Please
+The **end product** of the proposal is a crisp **problem statement**. Please
 submit your report via a shared Google Doc in Canvas (so we can comment on
 specific lines).
 
@@ -95,9 +95,9 @@ before!**
 
 Your checkpoint #2 report should be built atop your checkpoint #1
 report, and will be about 3-4 pages is fine. 
-The end product of this milestone is a description about:
+The **end product** of this milestone is a description about:
 1. your primary results and any insights/observations,
-2. planned TODOs that you haven't completed but plan to get done by the end of the semester. 
+2. TODOs that you haven't completed but plan to get done by the end of the semester. 
 
 
 
