@@ -52,9 +52,9 @@ midterm:
 springRecess:
   name: Spring Recess (no class)
   type: holiday
-6a:
+6:
   name: Graph processing (guest lecture)
-  page: /modules/8-graph-processing
+  page: /lectures/lec6-graph-processing
 7a:
   name: Cloud computing basics
   page: /modules/8-cloud-computing-basics

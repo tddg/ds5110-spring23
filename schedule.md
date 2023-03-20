@@ -77,7 +77,7 @@ weeks:
   '10':
     Mon:
       date: 2023/03/20
-      content: 6a
+      content: 6
     Wed:
       date: 2023/03/22
       content: 7a
