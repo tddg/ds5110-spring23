@@ -1,7 +1,7 @@
 ---
 layout: module
-title: "Lecture 6: Graph Processing"
-permalink: /lectures/lec6-graph-processing
+title: "Lecture 6: Graph Computing"
+permalink: /lectures/lec6-graph-computing
 parent: Lectures
 nav_order: 7
 
