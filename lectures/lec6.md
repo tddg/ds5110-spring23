@@ -3,7 +3,7 @@ layout: module
 title: "Lecture 6: Graph computing"
 permalink: /lectures/lec6-graph-computing
 parent: Lectures
-nav_order: 7
+nav_order: 8
 
 ---
 ### Learning objectives:
