@@ -22,7 +22,7 @@ In this lecture, you will learn:
 
 ### Readings 
 
-* [Pregal](https://research.google/pubs/pub37252/) (optional)
+* [Pregel](https://research.google/pubs/pub37252/) (optional)
 * [GraphLab](https://arxiv.org/ftp/arxiv/papers/1408/1408.2041.pdf) (optional)
 * [PowerGraph](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez) (optional)
 
