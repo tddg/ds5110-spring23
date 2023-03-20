@@ -24,7 +24,7 @@ In this lecture, you will learn:
 
 * [Pregal](https://research.google/pubs/pub37252/) (optional)
 * [GraphLab](https://arxiv.org/ftp/arxiv/papers/1408/1408.2041.pdf) (optional)
-* [PowerGraph](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez)
+* [PowerGraph](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez) (optional)
 
 
 ### Lecture videos
