@@ -65,7 +65,7 @@ springRecess:
   name: Cloud-native data systems II
   page: /lectures/lec7-cloud-data-systems
 8a:
-  name: Distributed ML systems
+  name: Reinforcement learning system
   page: /modules/10-pytorch
 8b:
   name: Federated learning systems (guest lecture)
