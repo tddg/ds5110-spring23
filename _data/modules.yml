@@ -56,7 +56,7 @@ springRecess:
   name: Graph computing (guest lecture)
   page: /lectures/lec6-graph-computing
 7a:
-  name: Cloud computing basics
+  name: Cloud computing and serverless computing
   page: /lectures/lec7-cloud-data-systems
 7b:
   name: Cloud-native data systems I
