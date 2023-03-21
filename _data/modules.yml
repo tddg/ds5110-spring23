@@ -53,34 +53,31 @@ springRecess:
   name: Spring Recess (no class)
   type: holiday
 6a:
-  name: Graph computing (guest lecture)
+  name: Lec6-Graph computing (guest lecture)
   page: /lectures/lec6-graph-computing
 7a:
-  name: Cloud computing and serverless computing
+  name: Lec7a-Cloud computing and serverless computing
   page: /lectures/lec7-cloud-data-systems
 7b:
-  name: Cloud-native data systems I
+  name: Lec7b-Cloud-native data systems I
   page: /lectures/lec7-cloud-data-systems
 7c:
-  name: Cloud-native data systems II
+  name: Lec7c-Cloud-native data systems II
   page: /lectures/lec7-cloud-data-systems
 8a:
-  name: Reinforcement learning system
+  name: Lec8a-Reinforcement learning systems (Ray)
   page: /modules/10-pytorch
 8b:
-  name: Federated learning systems (guest lecture)
+  name: Lec8b-Federated learning systems (guest lecture)
   page: /modules/11-federated-learning
-8c:
-  name: Reinforcement learning systems (Ray)
-  page: /modules/12-ray
 9a:
-  name: Database systems
+  name: Lec9a-Database systems (Learned Index) 
   page: /modules/13-database
 10a:
-  name: Cloud storage (Amazon Dynamo)
+  name: Lec9b-Cloud storage systems (Amazon Dynamo I)
   page: /modules/14-amazon-dynamo
 10b:
-  name: Cloud storage (AWS DynamoDB)
+  name: Lec9c-Cloud storage systems (AWS Dynamo II)
   page: /modules/15-aws-dynamodb
 11a:
   name: Data warehouse (Snowflake+Alibaba)
