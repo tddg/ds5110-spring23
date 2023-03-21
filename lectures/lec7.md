@@ -16,7 +16,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec7a:** Cloud computing and serverless computing: [slides pdf](/ds5110-spring23/assets/docs/lec7-cloud-comp.pdf)
+* **Lec7a:** Cloud computing and serverless computing: [slides pdf](/ds5110-spring23/assets/docs/lec7a-cloud-comp.pdf)
 
 
 ### Readings 
