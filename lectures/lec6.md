@@ -29,4 +29,4 @@ In this lecture, you will learn:
 
 ### Lecture videos
 
-* **Lec6:** [video](#)
+* **Lec6:** [video](https://edstem.org/us/courses/32938/discussion/2815631)
