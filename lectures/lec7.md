@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Lecture 7: Cloud computing and cloud-native data systems"
+title: "Lecture 7: Cloud computing and cloud data systems"
 permalink: /lectures/lec7-cloud-data-systems
 parent: Lectures
 nav_order: 9
@@ -10,8 +10,8 @@ nav_order: 9
 
 In this lecture, you will learn:
 
-* the background of cloud computing and serverless computing.
-* the desirable properties and limitations of today's serverless computing.
+* **Lec7a:** the background of cloud computing and serverless computing.
+* **Lec7a:** the desirable properties and limitations of today's serverless computing.
 
 
 ### Lecture slides
