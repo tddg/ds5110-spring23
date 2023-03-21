@@ -57,13 +57,13 @@ springRecess:
   page: /lectures/lec6-graph-computing
 7a:
   name: Cloud computing basics
-  page: /modules/8-cloud-computing-basics
+  page: /lectures/lec7-cloud-data-systems
 7b:
   name: Cloud-native data systems I
-  page: /modules/9-serverless-computing
+  page: /lectures/lec7-cloud-data-systems
 7c:
   name: Cloud-native data systems II
-  page: /modules/9-serverless-computing
+  page: /lectures/lec7-cloud-data-systems
 8a:
   name: Distributed ML systems
   page: /modules/10-pytorch
