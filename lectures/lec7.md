@@ -12,6 +12,8 @@ In this lecture, you will learn:
 
 * **Lec7a:** the background of cloud computing and serverless computing.
 * **Lec7a:** the desirable properties and limitations of today's serverless computing.
+* **Lec7b:** the high-level design of Wukong and working mechanism of decentralized scheduling.
+
 
 
 ### Lecture slides
@@ -30,4 +32,5 @@ In this lecture, you will learn:
 ### Lecture videos
 
 * **Lec7a:** [Video](https://edstem.org/us/courses/32938/discussion/2847129)
+* **Lec7b:** [Video](https://edstem.org/us/courses/32938/discussion/2848827)
 
