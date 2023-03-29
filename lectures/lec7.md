@@ -13,13 +13,16 @@ In this lecture, you will learn:
 * **Lec7a:** the background of cloud computing and serverless computing.
 * **Lec7a:** the desirable properties and limitations of today's serverless computing.
 * **Lec7b:** the high-level design of Wukong and working mechanism of decentralized scheduling.
+* **Lec7c:** the high-level design of InfiniCache and how RAID/erasure coding works mathematically/algorithmically.
+* **Lec7c:** why InfiniCache is more cost-effective.
 
 
 
 ### Lecture slides
 
 * **Lec7a:** Cloud computing and serverless computing: [slides pdf](/ds5110-spring23/assets/docs/lec7a-cloud-comp.pdf)
-* **Lec7b:** Server parallel computing: [slides pdf](/ds5110-spring23/assets/docs/lec7b-wukong.pdf)
+* **Lec7b:** Serverless parallel computing: [slides pdf](/ds5110-spring23/assets/docs/lec7b-wukong.pdf)
+* **Lec7c:** Serverless object caching: [slides pdf](/ds5110-spring23/assets/docs/lec7c-infinicache.pdf)
 
 
 ### Readings 
