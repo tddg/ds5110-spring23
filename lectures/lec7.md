@@ -22,7 +22,7 @@ In this lecture, you will learn:
 
 * **Lec7a:** Cloud computing and serverless computing: [slides pdf](/ds5110-spring23/assets/docs/lec7a-cloud-comp.pdf)
 * **Lec7b:** Serverless parallel computing: [slides pdf](/ds5110-spring23/assets/docs/lec7b-wukong.pdf)
-* **Lec7c:** Serverless object caching: [slides pdf](/ds5110-spring23/assets/docs/lec7c-infinicache.pdf)
+* **Lec7c:** Serverless object caching: [slides pdf](/ds5110-spring23/assets/docs/lec7c-infinicache.pdf), [RAID+erasure coding notes](/ds5110-spring23/assets/docs/notes_RAID_EC.pdf)
 
 
 ### Readings 
