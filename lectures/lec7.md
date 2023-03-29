@@ -36,4 +36,6 @@ In this lecture, you will learn:
 
 * **Lec7a:** [Video](https://edstem.org/us/courses/32938/discussion/2847129)
 * **Lec7b:** [Video](https://edstem.org/us/courses/32938/discussion/2848827)
+* **Lec7c-i:** [Video](https://edstem.org/us/courses/32938/discussion/2858888)
+
 
