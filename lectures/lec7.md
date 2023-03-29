@@ -14,7 +14,7 @@ In this lecture, you will learn:
 * **Lec7a:** the desirable properties and limitations of today's serverless computing.
 * **Lec7b:** the high-level design of Wukong and working mechanism of decentralized scheduling.
 * **Lec7c:** the high-level design of InfiniCache and how RAID/erasure coding works mathematically/algorithmically.
-* **Lec7c:** why InfiniCache is more cost-effective.
+* **Lec7c:** In what ways is InfiniCache a cost-effective solution, and for what types of workloads might InfiniCache not be as cost-effective?
 
 
 
