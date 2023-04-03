@@ -22,7 +22,7 @@ In this lecture, you will learn:
 
 ### Readings 
 
-* **Lec7a:** [The Ray paper](https://www.usenix.org/conference/osdi18/presentation/moritz)
+* **Lec8a:** [The Ray paper](https://www.usenix.org/conference/osdi18/presentation/moritz)
 
 
 ### Lecture videos
