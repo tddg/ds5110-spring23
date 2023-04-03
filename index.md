@@ -44,8 +44,8 @@ and cloud resources on Amazon Web Services (AWS) and Google Cloud.
 * Large-scale databases, cloud storage systems (Amazon Dynamo/AWS DynamoDB)
 * Cloud computing
 * Cloud-native big data systems (serverless computing, serverless analytics)
-* Machine learning systems (PyTorch, federated learning)
-* Data warehouse/datacenter (Snowflake, Alibaba)
+* Machine learning systems (Ray, federated learning)
+* Data warehouse/datacenter (Alibaba)
 
 
 ## Prerequisite
