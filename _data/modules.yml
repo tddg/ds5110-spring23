@@ -66,10 +66,10 @@ springRecess:
   page: /lectures/lec7-cloud-data-systems
 8a:
   name: Lec8a-Reinforcement learning systems (Ray)
-  page: /modules/10-pytorch
+  page: /lectures/lec8-ML-systems
 8b:
   name: Lec8b-Federated learning systems (guest lecture)
-  page: /modules/11-federated-learning
+  page: /lectures/lec8-ML-systems
 9a:
   name: Lec9a-Database systems (Learned Index) 
   page: /modules/13-database
