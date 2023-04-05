@@ -34,5 +34,6 @@ In this lecture, you will learn:
 ### Lecture videos
 
 * **Lec8a:** [Video](https://edstem.org/us/courses/32938/discussion/2881327) (Second half is for Lecture 8a).
+* **Lec8b:** [Video](https://edstem.org/us/courses/32938/discussion/2893965).
 
 
