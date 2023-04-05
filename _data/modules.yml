@@ -72,7 +72,7 @@ springRecess:
   page: /lectures/lec8-ML-systems
 9a:
   name: Lec9a-Database systems (Learned Index) 
-  page: /modules/lec9-database
+  page: /modules/lec9-databases
 10a:
   name: Lec10a-Cloud storage systems (Amazon Dynamo I)
   page: /modules/lec10-amazon-dynamo
