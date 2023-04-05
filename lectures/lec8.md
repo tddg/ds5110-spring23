@@ -12,13 +12,16 @@ nav_order: 10
 In this lecture, you will learn:
 
 * **Lec8a:** the motivation of Ray and the Ray APIs (tasks and actors).
+* **Lec8b:** how federated learning works and why there is a need for the new federated learning model.
+* **Lec8b:** challenges around today's large-scale federated learning systems.
 
 
 
 ### Lecture slides
 
-* **Lec8a:** Reinforcement Learning System: Ray: [slides pdf](/ds5110-spring23/assets/docs/lec8a-ray.pdf), [slides pdf+notes](/ds5110-spring23/assets/docs/lec8a-ray+notes.pdf), 
+* **Lec8a:** Reinforcement learning system: Ray: [slides pdf](/ds5110-spring23/assets/docs/lec8a-ray.pdf), [slides pdf+notes](/ds5110-spring23/assets/docs/lec8a-ray+notes.pdf), 
 [notebook demo](https://github.com/tddg/ds5110-spring23/blob/main/assets/ray_API_demo.ipynb)
+* **Lec8b:** Federated learning system: [slides pdf](/ds5110-spring23/assets/docs/lec8b-flsys.pdf)
 
 
 ### Readings 
