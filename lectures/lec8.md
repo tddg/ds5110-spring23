@@ -13,7 +13,7 @@ In this lecture, you will learn:
 
 * **Lec8a:** the motivation of Ray and the Ray APIs (tasks and actors).
 * **Lec8b:** how federated learning works and why there is a need for the new federated learning model.
-* **Lec8b:** challenges around today's large-scale federated learning systems.
+* **Lec8b:** challenges of heterogeneity and techniques of today's large-scale federated learning systems to address these challenges.
 
 
 
