@@ -31,8 +31,6 @@ incrementally updated to include more papers as we go.
 
 ### Machine Learning Systems
 
-[Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/li_mu) [USENIX OSDI 2014]
-
 [Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/conference/osdi18/presentation/moritz) [USENIX OSDI 2018]
 
 [The Case for Learned Index Structures](https://dl.acm.org/doi/10.1145/3183713.3196909) [ACM SIGMOD 2018]
