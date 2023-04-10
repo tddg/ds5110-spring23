@@ -18,7 +18,7 @@ In this lecture, you will learn:
 
 ### Lecture slides
 
-* **Lec9a:** 
+* **Lec9a:** Learned index structures: [slides pdf](/ds5110-spring23/assets/docs/lec9a-learned-index.pdf) 
 
 
 
