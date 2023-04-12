@@ -5,5 +5,6 @@ date: 2023-04-10
 ---
 
 * Lec9a slides are posted.
+* Lec10 slides are posted.
 
 {: .fs-5 }
