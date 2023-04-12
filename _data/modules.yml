@@ -75,10 +75,10 @@ springRecess:
   page: /lectures/lec9-databases
 10a:
   name: Lec10a-Cloud storage systems (Amazon Dynamo I)
-  page: /modules/lec10-amazon-dynamo
+  page: /lectures/lec10-cloud-storage
 10b:
   name: Lec10b-Cloud storage systems (AWS Dynamo II)
-  page: /modules/lec10-amazon-dynamo
+  page: /lectures/lec10-cloud-storage
 11a:
   name: Lec11a-Datacenter computing (Alibaba)
   page: /modules/lec11-datacenter-computing
