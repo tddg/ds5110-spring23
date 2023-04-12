@@ -37,4 +37,5 @@ In this lecture, you will learn:
 
 ### Lecture videos
 
+* [Video of Lec10a](https://edstem.org/us/courses/32938/discussion/2936404)
 
