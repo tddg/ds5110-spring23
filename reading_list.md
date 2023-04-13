@@ -31,7 +31,7 @@ incrementally updated to include more papers as we go.
 
 ### Cloud Storage Systems
 
-[Dynamo: Amazon’s Highly Available Key-value Store](https://dl.acm.org/doi/10.1145/1323293.1294281) [ACM SOSP 2007]
+[Dynamo: Amazon’s Highly Available Key-value Store](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store) [ACM SOSP 2007]
 
 [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/conference/atc22/presentation/elhemali) [USENIX ATC 2022]
 
