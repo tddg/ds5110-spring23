@@ -81,7 +81,7 @@ springRecess:
   page: /lectures/lec10-cloud-storage
 11a:
   name: Lec11a-Datacenter computing (Alibaba)
-  page: /modules/lec11-datacenter-computing
+  page: /lectures/lec11-datacenter-computing
 11b:
   name: Data warehouse 
   page: /modules/16-data-warehouse
