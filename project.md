@@ -12,7 +12,7 @@ nav_order: 7
 0. ~~Friday, 02/24, 11:00 am: Project bidding~~
 
 
-1. Friday, 03/24, 11:00 am: Project checkpoint 1
+1. ~~Friday, 03/24, 11:00 am: Project checkpoint 1~~
 
 	* Proposal phase: report any preliminary results that you have.
 
