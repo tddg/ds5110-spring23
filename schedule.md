@@ -117,6 +117,9 @@ weeks:
       date: 2023/04/26
       content: presentation
   '16':
+    Mon:
+      date: 2023/05/01
+      content: presentation
     Wed:
       date: 2023/05/03
       content: 
