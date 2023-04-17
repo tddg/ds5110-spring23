@@ -16,7 +16,7 @@ nav_order: 7
 
 	* Proposal phase: report any preliminary results that you have.
 
-2. Friday, 04/14, 11:00 am: Project checkpoint 2
+2. ~~Friday, 04/14, 11:00 am: Project checkpoint 2~~
 
 	* For system/tool building projects, you are expected to show prototypes.
 	* For data analysis projects, you are expected to show general statistics of your datasets and concrete examples or case studies.
