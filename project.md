@@ -143,6 +143,6 @@ Submit everything by 11:00am on Wednesday, 05/03, including:
 
 Send the pdf of your final report on Canvas.
 
-With your consent, we will post your recording videos on the course
+With your consent, we will post your recordings on the course
 webpage as a final showcase of your achievement at the end of this
 semester! 😊
