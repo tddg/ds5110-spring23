@@ -138,7 +138,7 @@ Please prepare a 15-minute presentation and record your presentation.
 Submit everything by 11:00am on Wednesday, 05/03, including:
 
 * your final project report (in pdf) using [this template](https://github.com/tddg/ds5110_latex_template),
-* code/data (add the code repository link **in your final report** – make sure your code repository is private and shared only with the teaching staff: if you choose to use GitHub, share it with this ID: tddg [my github account](https://github.com/tddg),
+* code/data (add the code repository link **in your final report** – make sure your code repository is private and shared only with the teaching staff: if you choose to use GitHub, share it with this ID: tddg (which is [the instrutor's github account](https://github.com/tddg)),
 * and video (add the video link in your final report). Check [metadata.tex](https://github.com/tddg/ds5110_latex_template/blob/main/metadata.tex) for detail about adding links.
 
 Send the pdf of your final report on Canvas.
