@@ -22,7 +22,7 @@ nav_order: 7
 	* For data analysis projects, you are expected to show general statistics of your datasets and concrete examples or case studies.
 
 
-3. Friday, 05/03, 11:00 am: Project everything due
+3. Friday, 05/03, 11:59 pm: Project everything due
 
 	* For system/tool building project, you are expected to show primary results.
 	* For measurement/study projects, you are expected to show your numbers and findings.
